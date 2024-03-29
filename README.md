@@ -10,6 +10,15 @@ Thanks to the advantages of Web GUI, you can not only use it on your local compu
 
 Project：https://github.com/v2rayA/v2rayA
 
+手动安装 deb 包
+
+启动 v2rayA
+
+sudo systemctl start v2raya.service
+
+设置开机自动启动
+
+sudo systemctl enable v2raya.service
 
 ## Usage
 
